@@ -1,0 +1,22 @@
+{
+  "portfolio_name": "Market-Risk-monitor",
+  "benchmark": "^GSPC",
+  "portfolio_value_usd": 1000000,
+  "annualized_return": 0.16766470080535367,
+  "annualized_volatility": 0.1726499585829123,
+  "sharpe_ratio_proxy": 0.9711250566262688,
+  "max_drawdown": -0.23804984363677362,
+  "confidence_level": 0.95,
+  "daily_var_pct": 0.016371362666960702,
+  "daily_var_usd": 16371.362666960702,
+  "daily_cvar_usd": 25156.516392626232,
+  "forecast_horizon_days": 252,
+  "runs": 10000,
+  "expected_terminal_value": 1197677.26244462,
+  "median_terminal_value": 1179762.698077296,
+  "worst_case_p05": 885124.6942374612,
+  "best_case_p95": 1572486.2817896495,
+  "return_skewness": -0.01439674602048208,
+  "return_kurtosis": -0.030002967778365086,
+  "probability_of_loss": 0.1715
+}

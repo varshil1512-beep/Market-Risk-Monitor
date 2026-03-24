@@ -1,0 +1,2 @@
+"""AlphaPulse finance analytics package."""
+

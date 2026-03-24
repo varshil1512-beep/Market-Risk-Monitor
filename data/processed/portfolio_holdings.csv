@@ -1,0 +1,11 @@
+ticker,name,sector,weight
+AAPL,Apple Inc.,Technology,0.12
+MSFT,Microsoft Corporation,Technology,0.12
+NVDA,NVIDIA Corporation,Technology,0.1
+JPM,JPMorgan Chase & Co.,Financials,0.1
+XOM,Exxon Mobil Corporation,Energy,0.1
+JNJ,Johnson & Johnson,Healthcare,0.1
+PG,Procter & Gamble Co.,Consumer Staples,0.09
+CAT,Caterpillar Inc.,Industrials,0.09
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,0.1
+NEE,"NextEra Energy, Inc.",Utilities,0.08
